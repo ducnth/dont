@@ -1,0 +1,14 @@
+[00:05:17]: [Join Announcement] cây chanh
+[00:05:54]: [Say] (KU_PP5FpGlu) cây chanh: q
+[00:07:41]: [Join Announcement] Huaan
+[00:11:02]: [Join Announcement] Abigail
+[00:13:17]: [Skin Announcement] cây chanh legs_winona_yule
+[00:19:50]: [Say] (KU_iNDUz9TV) Abigail: ua
+[00:19:53]: [Say] (KU_7b3MLnm-) Huaan: o
+[00:19:56]: [Say] (KU_iNDUz9TV) Abigail: co pvp ha
+[00:20:04]: [Say] (KU_iNDUz9TV) Abigail: xin loi
+[00:22:01]: [Join Announcement] ninhdz
+[00:26:34]: [Leave Announcement] cây chanh
+[00:31:30]: [Join Announcement] Mouse
+[00:33:43]: [Join Announcement] Thái An
+[00:34:23]: [Say] (KU_vCuBSxnC) Duc Nguyen: doi host di CHanh

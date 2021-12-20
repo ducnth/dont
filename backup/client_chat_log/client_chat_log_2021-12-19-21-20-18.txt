@@ -1,0 +1,25 @@
+[00:01:00]: [Join Announcement] Thái An
+[00:01:03]: [Join Announcement] NTL Game Tips
+[00:01:55]: [Join Announcement] thaonguyenden81
+[00:02:38]: [Leave Announcement] thaonguyenden81
+[00:03:06]: [Join Announcement] LynuocMias
+[00:03:33]: [Join Announcement] thaonguyenden81
+[00:05:21]: [Join Announcement] Mouse
+[00:08:58]: [Death Announcement] NTL Game Tips was killed by Spider. He became a spooky ghost!
+[00:17:35]: [Death Announcement] thaonguyenden81 was killed by Terrorbeak. He became a spooky ghost!
+[00:17:42]: [Resurrect Announcement] thaonguyenden81 was resurrected by Campfire.
+[00:23:56]: [Death Announcement] thaonguyenden81 was killed by Spider. He became a spooky ghost!
+[00:27:55]: [Resurrect Announcement] NTL Game Tips was resurrected by Campfire.
+[00:28:32]: [Resurrect Announcement] thaonguyenden81 was resurrected by Campfire.
+[00:32:33]: [Skin Announcement] NTL Game Tips goldenshovel_invisible
+[00:39:15]: [Skin Announcement] Mouse legs_wanda_shadow
+[00:42:38]: [Skin Announcement] Thái An feet_wx78_nature
+[00:44:59]: [Leave Announcement] LynuocMias
+[00:51:01]: [Join Announcement] LynuocMias
+[00:52:18]: [Death Announcement] Duc Nguyen was killed by Spider. She became a spooky ghost!
+[00:57:04]: [Skin Announcement] thaonguyenden81 wilson_beard_pigguard
+[00:59:48]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:00:28]: [Skin Announcement] LynuocMias legs_winona_magma
+[01:03:45]: [Death Announcement] Duc Nguyen was killed by Darkness. She became a spooky ghost!
+[01:06:09]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:08:01]: [Skin Announcement] cây chanh mysterybox_ice_4

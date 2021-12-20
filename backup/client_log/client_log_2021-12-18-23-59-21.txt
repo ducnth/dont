@@ -1,0 +1,2041 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 40%
+	Available Physical Memory: 14633m/24407m
+	Available Page File: 16541m/27991m
+	Available Virtual Memory: 3967m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 226k
+	Quota Page Pool Usage: 224k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 490729
+[00:00:00]: Current time: Sat Dec 18 23:57:01 2021
+
+[00:00:00]: Don't Starve Together: 490729 WIN32_STEAM
+[00:00:00]: Build Date: 7008
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 7904665
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/1217881902/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (1996)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: Texture Streaming: ENABLED
+[00:00:00]: Threaded Renderer: ENABLED
+[00:00:00]: ProfileIndex:3.12
+[00:00:00]: THREAD - started 'SimUpdateThread' (15928)
+[00:00:00]: THREAD - started 'RenderThread' (6380)
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (14736)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (16196)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561199178147630
+[00:00:00]: SteamID: 76561199178147630
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (10688)
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2592
+  RAM                       
+    megsOfRam                 24576
+  GPU                       
+    name                      NVIDIA GeForce GTX 1650
+    driverDate                20211126000000.000000-000
+    megsOfRam                 4095
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             30.0.14.9709
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (3760)
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1920,1001 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (0 x 29)
+[00:00:01]:    Adjusted Window Pos (-9 x -9)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1650)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (15396)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1120124958	
+[00:00:02]: Loading mod: workshop-1120124958 (Boss Indicators) Version:0.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1290774114	
+[00:00:02]: Loading mod: workshop-1290774114 (Admin Scoreboard+) Version:1.22	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1334097806	
+[00:00:02]: Loading mod: workshop-1334097806 (Screaming Man Rabbit) Version:1.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1398552073	
+[00:00:02]: Loading mod: workshop-1398552073 (Custom Server Size) Version:1.6	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:02]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-677034401	
+[00:00:02]: Loading mod: workshop-677034401 (DST Tieng Viet) Version:2.5	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-694531911	
+[00:00:02]: Loading mod: workshop-694531911 ( [DST]Aerial View) Version:1.2.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:00:02]: Loading mod: workshop-836583293 (Item Info) Version:0.53	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:00:02]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:02]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.5	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2302837868	
+[00:00:02]: Loading mod: workshop-2302837868 (Snapping tills) Version:1.1.5	
+[00:00:02]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1334097806 (Screaming Man Rabbit)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1334097806 (Screaming Man Rabbit)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1334097806 (Screaming Man Rabbit)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-677034401 (DST Tieng Viet)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-677034401 (DST Tieng Viet)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-677034401 (DST Tieng Viet)	Loading modmain.lua	
+[00:00:02]: Translator:LoadPOFile - loading file: ../mods/workshop-677034401/DSTVN.po	
+[00:00:02]: Mod: workshop-1398552073 (Custom Server Size)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1398552073 (Custom Server Size)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1398552073 (Custom Server Size)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:00:02]: Mod: workshop-1120124958 (Boss Indicators)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1120124958 (Boss Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1120124958 (Boss Indicators)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-694531911 ( [DST]Aerial View)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:00:02]: Mod: workshop-2302837868 (Snapping tills)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2302837868 (Snapping tills)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2302837868 (Snapping tills)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	6296	
+[00:00:04]: PlayerHistory loaded player_history (v2) len:4079	
+[00:00:04]: ServerPreferences loaded server_preferences	2	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: EnableShadeRenderer: 	true	
+[00:00:04]: loaded shardsaveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:00:06]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1334097806 (Screaming Man Rabbit)	Registering prefabs	
+[00:00:06]: Mod: workshop-1334097806 (Screaming Man Rabbit)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:06]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-677034401 (DST Tieng Viet)	Registering prefabs	
+[00:00:06]: Mod: workshop-677034401 (DST Tieng Viet)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1398552073 (Custom Server Size)	Registering prefabs	
+[00:00:06]: Mod: workshop-1398552073 (Custom Server Size)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1120124958 (Boss Indicators)	Registering prefabs	
+[00:00:06]: Mod: workshop-1120124958 (Boss Indicators)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-694531911 ( [DST]Aerial View)	Registering prefabs	
+[00:00:06]: Mod: workshop-694531911 ( [DST]Aerial View)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:00:06]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2302837868 (Snapping tills)	Registering prefabs	
+[00:00:06]: Mod: workshop-2302837868 (Snapping tills)	  Registering prefab file: prefabs/snaptillplacer	
+[00:00:06]: Mod: workshop-2302837868 (Snapping tills)	    snaptillplacer	
+[00:00:06]: Mod: workshop-2302837868 (Snapping tills)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1290774114 (Admin Scoreboard+)	Registering prefabs	
+[00:00:06]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (9712)
+[00:00:06]: FilesExistAsyncThread started (19495 files)...
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1217881902/client_save/blocklist.txt (Failure)
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1217881902/client_save/adminlist.txt (Failure)
+[00:00:06]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1217881902/client_save/whitelist.txt (Failure)
+[00:00:06]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=VN&lang=english&version=490729	
+[00:00:06]: SimLuaProxy::QueryServer()
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 290835 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: Do AutoLogin	
+[00:00:06]: [Steam] Auth Session Ticket requested...
+[00:00:07]: [MOTD] Done Loading.	
+[00:00:07]: [MOTD] Downloading image for box5 from https://klei-motd.klei.com/dst/wolfgang/steam/en/wintersfeast2021_yule_willow_MOTD_d110a.tex
+[00:00:07]: [Steam] Got Auth Session Ticket
+[00:00:08]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box5.tex
+[00:00:08]: ... FilesExistAsyncThread complete
+[00:00:10]: [200] Account Communication Success (3)
+[00:00:10]: Logging in as KU_vCuBSxnC
+[00:00:11]: There is no active event to get the status of.
+[00:00:13]: loaded inventory_cache_prod
+[00:00:13]: using inventory state token from cached file
+[00:00:15]: saved APP:Klei//DoNotStarveTogether/1217881902/client_save/inventory_cache_prod
+[00:00:15]: saved APP:Klei//DoNotStarveTogether/1217881902/client_save/inventory_cache_prod_sig
+[00:00:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:40]: Friends are currently playing in 0 games(s)!
+[00:00:40]: You belong to 0 clan(s)!
+[00:00:40]: Downloaded server listings - chunk 0 (Sing): 7075 filtered completed: 4622
+[00:00:44]: Getting top mod details...
+[00:00:44]: Frontend-Unloading mod 'all'.	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-1699194522	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-501385076	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-1991746508	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:44]: FrontendLoadMod	workshop-1207269058	
+[00:00:44]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:44]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:44]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-375859599	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:44]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.2.02	
+[00:00:44]: Mod: workshop-375859599 (Health Info)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-375859599 (Health Info)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-501385076	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-501385076	
+[00:00:44]: Fontend-Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:44]: Mod: workshop-501385076 (Quick Pick)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-378160973	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:44]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:44]: Mod: workshop-378160973 (Global Positions)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-378160973 (Global Positions)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-666155465	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:00:44]: Fontend-Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:00:44]: Mod: workshop-666155465 (Show Me (Origin))	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-347079953	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:44]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:44]: Mod: workshop-347079953 (Display food values)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-347079953 (Display food values)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-1699194522	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-1699194522	
+[00:00:44]: Fontend-Loading mod: workshop-1699194522 ([DST] Myth Characters) Version:8.12.18	
+[00:00:44]: Mod: workshop-1699194522 ([DST] Myth Characters)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-1699194522 ([DST] Myth Characters)	Loading modworldgenmain.lua	
+[00:00:44]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:44]: FrontendLoadMod	workshop-1991746508	
+[00:00:44]: loaded mod_config_data/modconfiguration_workshop-1991746508	
+[00:00:44]: Fontend-Loading mod: workshop-1991746508 ([DST] Myth Words) Version:8.12.18	
+[00:00:44]: Mod: workshop-1991746508 ([DST] Myth Words)	Loading modservercreationmain.lua	
+[00:00:44]: Mod: workshop-1991746508 ([DST] Myth Words)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:00:44]: Mod: workshop-1991746508 ([DST] Myth Words)	Loading modworldgenmain.lua	
+[00:00:44]: GOT top mod details...50
+[00:00:44]: ../mods/workshop-2208128427/images/modicon.tex is 120x120 but compressed textures must have power of 2 dimensions.
+[00:00:47]: Frontend-Unloading mod 'all'.	
+[00:00:50]: Friends are currently playing in 0 games(s)!
+[00:00:50]: You belong to 0 clan(s)!
+[00:00:50]: Downloaded server listings - chunk 0 (Sing): 7073 filtered completed: 4622
+[00:00:52]: Downloaded server listings - chunk 1 (EU): 3835 filtered completed: 6692
+[00:00:53]: Downloaded server listings - chunk 2 (US): 3604 filtered completed: 9011
+[00:00:54]: Downloaded server listings - chunk 3 (China): 6 filtered completed: 9017
+[00:00:54]: Downloaded server listings - chunk 4: 475 filtered completed: 9492
+[00:01:03]: [Connect] Got new join server request from lua
+[00:01:03]: [Connect] Init client connection to (S) <4043501418222183233>
+[00:01:03]: [Connect] PendingConnection::Reset(true)
+[00:01:03]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:03]: [Connect] InternalInitClient <2892733226461861483>
+[00:01:03]: [Shard] Starting shard mode as player
+[00:01:03]: [Connect] Starting online connection to 171.227.162.207|10999
+[00:01:03]: [Connect] Server name: 1000 ngay
+[00:01:04]: [200] Account Communication Success (13)
+[00:01:04]: [Connect] Sending ping(s)...
+[00:01:04]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:04]: [P2P] Create session: 91.76.29.124|1 '90154217278989316'
+[00:01:04]: [Connect] Punchthrough address is 91.76.29.124|1.
+[00:01:04]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:04]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:04]: [P2P] Sent to 91.76.29.124|1 '90154217278989316'
+[00:01:04]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:04]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:04]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:04]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:04]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:04]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:05]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:05]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:05]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:05]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:05]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:05]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:05]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:05]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:05]: [Connect] DirectConnect Ping 171.227.162.207|10999
+[00:01:05]: [Connect] Punchthrough Ping 91.76.29.124|1
+[00:01:08]: [P2P] Received from 91.76.29.124|1 '90154217278989316'
+[00:01:08]: [Connect] Ping response from 91.76.29.124|1
+[00:01:08]: [Connect] Joining server from ping response (silent)...
+[00:01:08]: [Connect] PendingConnectionDoConnect to 91.76.29.124|1
+[00:01:08]: [Connect] DirectConnect to 91.76.29.124|1
+[00:01:08]: Connection accepted to 91.76.29.124|1 <4043501418222183233>
+[00:01:08]: Network external address discovered: 118.94.84.136|1
+[00:01:08]: SendClientHandShakePacket to <4043501418222183233>
+[00:01:09]: DeserializeHandShakeServerListing
+[00:01:09]: Network tick rate: U=10(3), D=15
+[00:01:09]: Platform: 1
+[00:01:09]: Version: 490729
+[00:01:09]: [Steam] Game Connection initiated
+[00:01:09]: SendClientInventoryHandShakePacket to <4043501418222183233>
+[00:01:10]: Begin Session: 1BBA2E7405B1E8DC
+[00:01:10]: Done Downloading Client Object Data
+[00:01:10]: DownloadMods and temp disable	
+[00:01:10]: We now have the required mods, enable them for server	
+[00:01:10]: Temp Enabling workshop-1991746508	
+[00:01:10]: Temp Enabling workshop-375859599	
+[00:01:10]: Temp Enabling workshop-347079953	
+[00:01:10]: Temp Enabling workshop-1207269058	
+[00:01:10]: Temp Enabling workshop-666155465	
+[00:01:10]: Temp Enabling workshop-378160973	
+[00:01:10]: Temp Enabling workshop-1699194522	
+[00:01:10]: ModIndex:SetTempModConfigData	
+[00:01:10]: Setting temp mod config for mod 	workshop-1207269058	
+[00:01:10]: Setting temp mod config for mod 	workshop-666155465	
+[00:01:10]: Setting temp mod config for mod 	workshop-1699194522	
+[00:01:10]: Setting temp mod config for mod 	workshop-378160973	
+[00:01:10]: Setting temp mod config for mod 	workshop-1991746508	
+[00:01:10]: Setting temp mod config for mod 	workshop-347079953	
+[00:01:10]: Setting temp mod config for mod 	workshop-375859599	
+[00:01:10]: Mods are setup for server, save the mod index and proceed.	
+[00:01:10]: Downloading [0] From: server_temp
+[00:01:10]: 0 (30%) 1/1 server_temp\server_save 114000b / 379603b
+[00:01:10]: 0 (60%) 1/1 server_temp\server_save 228000b / 379603b
+[00:01:10]: 0 (90%) 1/1 server_temp\server_save 342000b / 379603b
+[00:01:10]: 0 (100%) 1/1 server_temp\server_save 379603b / 379603b
+[00:01:10]: Download complete[0] Files: 1 Size: 379603
+[00:01:10]: Collecting garbage...
+[00:01:10]: lua_gc took 0.04 seconds
+[00:01:10]: ~ShardLuaProxy()
+[00:01:10]: ~cEventLeaderboardProxy()
+[00:01:10]: ~ItemServerLuaProxy()
+[00:01:10]: ~InventoryLuaProxy()
+[00:01:10]: ~NetworkLuaProxy()
+[00:01:10]: ~SimLuaProxy()
+[00:01:10]: Cancelling LuaQueryCallback handle [5]
+[00:01:10]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:10]: lua_close took 0.08 seconds
+[00:01:10]: ReleaseAll
+[00:01:10]: ReleaseAll Finished
+[00:01:10]: cGame::StartPlaying
+[00:01:11]: AppVersion::GetArchitecture() x32
+[00:01:11]: LOADING LUA
+[00:01:11]: DoLuaFile scripts/main.lua
+[00:01:11]: DoLuaFile loading buffer scripts/main.lua
+[00:01:11]:   taskgrouplist:	default	Together	
+[00:01:11]:   taskgrouplist:	classic	Classic	
+[00:01:11]:   taskgrouplist:	cave_default	Underground	
+[00:01:11]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:01:11]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:01:11]: running main.lua
+	
+[00:01:11]: loaded modindex	
+[00:01:11]: ModIndex: Beginning normal load sequence.
+	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1699194522	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1991746508	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-1120124958	
+[00:01:11]: Loading mod: workshop-1120124958 (Boss Indicators) Version:0.3	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-1290774114	
+[00:01:11]: Loading mod: workshop-1290774114 (Admin Scoreboard+) Version:1.22	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-1334097806	
+[00:01:11]: Loading mod: workshop-1334097806 (Screaming Man Rabbit) Version:1.2	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-1398552073	
+[00:01:11]: Loading mod: workshop-1398552073 (Custom Server Size) Version:1.6	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:01:11]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:01:11]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:01:11]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-677034401	
+[00:01:11]: Loading mod: workshop-677034401 (DST Tieng Viet) Version:2.5	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-694531911	
+[00:01:11]: Loading mod: workshop-694531911 ( [DST]Aerial View) Version:1.2.3	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:01:11]: Loading mod: workshop-836583293 (Item Info) Version:0.53	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:01:11]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:01:11]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:01:11]: Loading mod: workshop-375859599 (Health Info) Version:2.2.02	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:01:11]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:01:11]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.5	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-2302837868	
+[00:01:11]: Loading mod: workshop-2302837868 (Snapping tills) Version:1.1.5	
+[00:01:11]: Could not load mod_config_data/modconfiguration_workshop-1699194522_CLIENT	
+[00:01:11]: Loading mod: workshop-1699194522 ([DST] Myth Characters) Version:8.12.18	
+[00:01:11]: loaded mod_config_data/modconfiguration_workshop-1991746508_CLIENT	
+[00:01:11]: Loading mod: workshop-1991746508 ([DST] Myth Words) Version:8.12.18	
+[00:01:11]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:01:11]: ShowMe version:	0.57	
+[00:01:11]: show_food_units	-1	-1	-1	
+[00:01:11]: show_uses	-1	-1	-1	
+[00:01:11]: Detected language for ShowMe: 	auto		
+[00:01:11]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:01:11]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:01:11]: Mod: workshop-1334097806 (Screaming Man Rabbit)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1334097806 (Screaming Man Rabbit)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-1334097806 (Screaming Man Rabbit)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-677034401 (DST Tieng Viet)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-677034401 (DST Tieng Viet)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-677034401 (DST Tieng Viet)	Loading modmain.lua	
+[00:01:11]: Translator:LoadPOFile - loading file: ../mods/workshop-677034401/DSTVN.po	
+[00:01:11]: Mod: workshop-1398552073 (Custom Server Size)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1398552073 (Custom Server Size)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-1398552073 (Custom Server Size)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1699194522	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1991746508	
+[00:01:11]: Mod: workshop-1120124958 (Boss Indicators)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1120124958 (Boss Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-1120124958 (Boss Indicators)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-694531911 ( [DST]Aerial View)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1699194522	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1991746508	
+[00:01:11]: Mod: workshop-2302837868 (Snapping tills)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-2302837868 (Snapping tills)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-2302837868 (Snapping tills)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1334097806	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677034401	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1699194522	
+[00:01:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1991746508	
+[00:01:11]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:01:11]: Mod: workshop-1991746508 ([DST] Myth Words)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1991746508 ([DST] Myth Words)	Loading modmain.lua	
+[00:01:11]: modimport: ../mods/workshop-1991746508/scripts/languages/strings_myth_theme_en.lua	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/sg	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/actions	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/containers	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/equips	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/foods	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/tech	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/flag	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/laozi	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/peach	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/pills	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/plantable	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/blackbear	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/rhino	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/components	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/etc	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/mythhouse	
+[00:01:11]: upvaluehelper loaded	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/mk_flyer	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/mod_rpc	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/prefabpostInit	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/myth_bookinfo	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/myth_lotus	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/myth_newturf	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/registerinventoryitematlas	
+[00:01:11]: RegisterInventoryItemAtlas: Image 'gourd.tex' is already registered to atlas 'images/monkey_king_item.xml'	
+[00:01:11]: RegisterInventoryItemAtlas: Image 'vegetarian_food.tex' is already registered to atlas 'images/monkey_king_item.xml'	
+[00:01:11]: RegisterInventoryItemAtlas: Image 'peach_wine.tex' is already registered to atlas 'images/monkey_king_item.xml'	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/myth_buff_ly_api	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/myth_skins.lua	
+[00:01:11]: modimport: ../mods/workshop-1991746508/main/myth_skinsapi.lua	
+[00:01:11]: Mod: workshop-1699194522 ([DST] Myth Characters)	Loading modworldgenmain.lua	
+[00:01:11]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:11]: Mod: workshop-1699194522 ([DST] Myth Characters)	Loading modmain.lua	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/myth_character_health.lua	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/myth_character_language.lua	
+[00:01:11]: modimport: ../mods/workshop-1699194522/scripts/characterspeech/myth_character_speech_eng	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/myth_character_containers.lua	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/monkey_king	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/neza	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/white_bone	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/pigsy	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/yangjian	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/myth_yutu	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/yama_commissioners	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/madameweb	
+[00:01:11]: modimport: ../mods/workshop-1699194522/skin.lua	
+[00:01:11]: modimport: ../mods/workshop-1699194522/skinui.lua	
+[00:01:11]: SimLuaProxy::QueryServer()
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/skyhound	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/myth_rpc	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/registerinventoryitematlas	
+[00:01:11]: modimport: ../mods/workshop-1699194522/main/player_become_astral	
+[00:01:12]: modimport: ../mods/workshop-1699194522/main/hua_internet	
+[00:01:12]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:12]: LOADING LUA SUCCESS
+[00:01:12]: Registering Server mod namespace "food item"
+[00:01:12]: Registering Server mod namespace "showme"
+[00:01:12]: Registering Server mod namespace "wb_mirror"
+[00:01:12]: Registering Server mod namespace "workshop-378160973"
+[00:01:12]: Registering Server mod namespace "workshop-1207269058"
+[00:01:12]: Registering Server mod namespace "myth_theme"
+[00:01:12]: Registering Server mod namespace "myth_transform"
+[00:01:12]: Registering Server mod namespace "skyhound"
+[00:01:12]: Registering Server mod namespace "mythskin"
+[00:01:12]: Registering Server mod namespace "showmeshint"
+[00:01:12]: Registering Server mod namespace "yangjian"
+[00:01:12]: Registering Client mod namespace "yangjian_fly_map"
+[00:01:12]: Registering Client mod namespace "wb_mirror_clientdprc"
+[00:01:12]: Registering Shard mod namespace "myth_saveinfo"
+[00:01:12]: PlayerDeaths loaded morgue	6296	
+[00:01:12]: PlayerHistory loaded player_history (v2) len:4079	
+[00:01:12]: ServerPreferences loaded server_preferences	2	
+[00:01:12]: bloom_enabled	true	
+[00:01:12]: EnableShadeRenderer: 	true	
+[00:01:12]: OnFilesLoaded()	
+[00:01:12]: OnUpdatePurchaseStateComplete	
+[00:01:12]: Loading world: client_temp/server_save	
+[00:01:12]: Save file is at version 5.09	
+[00:01:12]: Klump load on boot started.	
+[00:01:12]: Klump files loaded: 	0	
+[00:01:12]: 	Unload FE	
+[00:01:12]: 	Unload FE done	
+[00:01:13]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:01:13]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:01:13]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:01:13]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:01:13]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-1334097806 (Screaming Man Rabbit)	Registering prefabs	
+[00:01:13]: Mod: workshop-1334097806 (Screaming Man Rabbit)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:01:13]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-677034401 (DST Tieng Viet)	Registering prefabs	
+[00:01:13]: Mod: workshop-677034401 (DST Tieng Viet)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-1398552073 (Custom Server Size)	Registering prefabs	
+[00:01:13]: Mod: workshop-1398552073 (Custom Server Size)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:01:13]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-1120124958 (Boss Indicators)	Registering prefabs	
+[00:01:13]: Mod: workshop-1120124958 (Boss Indicators)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-694531911 ( [DST]Aerial View)	Registering prefabs	
+[00:01:13]: Mod: workshop-694531911 ( [DST]Aerial View)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:01:13]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:01:13]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:01:13]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:01:13]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:01:13]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-2302837868 (Snapping tills)	Registering prefabs	
+[00:01:13]: Mod: workshop-2302837868 (Snapping tills)	  Registering prefab file: prefabs/snaptillplacer	
+[00:01:13]: Mod: workshop-2302837868 (Snapping tills)	    snaptillplacer	
+[00:01:13]: Mod: workshop-2302837868 (Snapping tills)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:01:13]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-1290774114 (Admin Scoreboard+)	Registering prefabs	
+[00:01:13]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:01:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:01:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:01:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:01:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:01:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	Registering prefabs	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/mk_items	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_hualing	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_longpi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_huoyuan	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/bananafan	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bananafan	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_fx_peachleaf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_fx_peachflower	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/purple_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    purple_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    purple_gourd_re	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    purple_gourd_re2	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    purple_gourd_re3	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    purple_gourd_re4	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_door_exit	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_door_exit	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_door_exit_1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_door_exit_2	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_house	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_house1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_door_enter	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_door_enter	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_floor	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_floor	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_floor_1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wallpaper	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wallpaper_1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_stonedoor	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall_decals	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall_decals_in	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall_decals1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall_decals1_in	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall_decals_ghg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall_decals_ghg_in	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_wall	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_wall	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_zodiac	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zodiac_1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zodiac_2	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zodiac_3	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_xingyue	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_xing	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_yue	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_interiors	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_bed	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_gz	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_gh	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_gh_small	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_pf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_xl	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_zz	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_physics_samll	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_physics_middle	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_physics_big	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/book_fly_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    book_fly_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_light	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_dengfire	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_dengfire	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_smalllight	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_smalllight	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_banana_tree	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_banana_tree	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_banana_burnt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_banana_stump	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_banana_leaf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_banana_tree_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_bundle	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bundle_unwrap	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bundle	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bundlewrap	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_zongzi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zongzi1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zongzi2	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zongzi_item1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zongzi_item2	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/bananafan_big	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bananafan_big	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    banana_tornado	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_flyskill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    flyerfx_wheel_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    flyerfx_yama_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    flyerfx_yutu_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_mk	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_nz	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_wb	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_pg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_yj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_yt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyskill_ya	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_ghg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_ghg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_ghg_tile	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_interiors_ghg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_lu	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_light	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_flower	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_pf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_groundlight	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_smoke	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_he_right	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_he_left	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_he_right_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_lu_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_groundlight_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_he_left_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_interiors_ghg_flower_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_chang_e	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_chang_e	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_chang_e_furniture	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_redlantern	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlantern	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlanternlight	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlanternbody	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlanternlight_ground	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlanternlight_ground_light	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_redlantern_ground	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlantern_ground	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlantern_ground_right	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlantern_ground_right_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redlantern_ground_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_ruyi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_ruyi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_fence	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_fence	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_fence_item	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_fence_item_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_bbn	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bbn	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bbn_container	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_mooncake	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_nuts	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_lotus	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_ice	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_ghg_snow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_ghg_snow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_yylp	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_yylp	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_yylp_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_yylp_icon	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_goldfrog	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_goldfrog	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_coin	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_coin	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_treasure_bowl	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_treasure_bowl	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_cash_tree	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_cash_tree_ground	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_cash_tree	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_cash_tree_sparkle	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_cash_tree_ground_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_redpouch	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_redpouch	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_goldnugget_ingot	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_goldnugget_ingot	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_goldnugget_ingot_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_small_goldfrog	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_small_goldfrog	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_goldfrog_spawner	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_goldfrog_spawner	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_goldfrog_base	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_goldfrog_base	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_farm_spawn	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_farm_spawn	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_yjp	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_yjp	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_yjp_flower	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_granary	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_granary	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_granary_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_well	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_well	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_well_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_toys	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_toy_featherbundle	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_toy_tigerdoll	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_toy_tumbler	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_toy_twirldrum	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_toy_chineseknot	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_tudi_shrines	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_tudi_shrines	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_tudi_shrines_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_tudi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_tudi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_food_table	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_table	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_table_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_honeypot	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_honeypot	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rock_ghgice	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rock_ghgice	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/laozi_qingniu	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    laozi_qingniu	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    laozi_qingniu_fly	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/saddle_qingniu	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    saddle_qingniu	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/laozi_bell	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    laozi_bell	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    laozi_bell_broken	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_qxj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_qxj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_qxj_shadow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_lotusleaf_hat	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_lotusleaf_hat	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_lotusleaf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_lotusleaf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_siving	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    siving_rocks	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    siving_stone	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/armor_siving	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    armorsiving	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/siving_hat	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    siving_hat	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_lotus_flower	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_lotus_flower	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    lotus_root	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    lotus_root_cooked	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    lotus_seeds	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    lotus_seeds_cooked	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_plant_lotus	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_lotus	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_lotus_sprout	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_lotus_normal	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_lotus_tall	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_lotus_rot	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_weapon_syf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_weapon_syf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_weapon_syd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_weapon_syd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_weapon_syd_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_weapon_gtt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_weapon_gtt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_weapon_gtt_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/krampussack_sealed	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    krampussack_sealed	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_heart	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_redheart	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_blueheart	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_yellowheart	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_siving_boss	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_siving_boss	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_fuchen	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_fuchen	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_store	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_store	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_store_construction	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_store_construction	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_statue_pandaman	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_statue_pandaman	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_bamboo	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bamboo	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_greenbamboo	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bamboo_shoots	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bamboo_shoots_cooked	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_bamboo_shoots_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_plant_bamboo	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_0	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_1	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_2	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_stump	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_3	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_4	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_5	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo_burnt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bambooplant_group_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bambooplant_family_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bambooplant_regenerate_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bambooplant_mapspawn_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_plant_bamboo	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_hotmeter	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_hotmeter_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_gale_sparkle_vfx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_gale_sparkle_vfx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_passcard_jie	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_passcard_jie	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/rhino_shoutfx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    rhino_shoutfx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_fx_blue	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_fx_red	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_fx_yellow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_fx_tornado	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_fx_tornado_big	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_fireexplode	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_firefx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_firefx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_huanhundan	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_huanhundan	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/yama_fire_purple	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    yama_fire_purple	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/yama_fire_green	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    yama_fire_green	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/yama_fire_yellow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    yama_fire_yellow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_mooncake_box	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_box	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_coin_box	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_coin_box	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/cassock	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    cassock	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    kam_lan_cassock	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_foods	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_nx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hsy	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_sj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_ztf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lxq	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zscr	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hbj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    honey_pie	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lzg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zyoh	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_pgt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_wine	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_omelet	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bbf	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tr	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_cj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    vegetarian_food	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zpd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_xjdmg	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_banquet	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lwhz	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tsj	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hlbz	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_soup	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bz	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_fhy	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zpd_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hlbz_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lzg_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zyoh_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zyoh_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zyoh_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_pgt_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    vegetarian_food_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zscr_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_nx_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_xjdmg_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tr_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lxq_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_soup_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_wine_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_fhy_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hlbz_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_wine_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_ztf_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hbj_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    honey_pie_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tsj_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_ztf_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_banquet_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_banquet_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_xjdmg_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bbf_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zscr_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hsy_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_soup_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zyoh_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lxq_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tsj_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_xjdmg_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_banquet_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_fhy_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_fhy_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bz_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bz_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bz_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_pgt_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zscr_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hlbz_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zpd_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bz_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_soup_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bbf_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lzg_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_soup_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hbj_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    honey_pie_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zpd_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tsj_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_banquet_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_pgt_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lwhz_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lwhz_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_ztf_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lwhz_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lzg_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lwhz_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_fhy_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_xjdmg_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_sj_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    vegetarian_food_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bbf_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zpd_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lzg_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    vegetarian_food_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_cj_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_ztf_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tr_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_cj_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_nx_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_cj_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hsy_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lxq_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hbj_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_cj_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hsy_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_omelet_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_wine_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    vegetarian_food_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tr_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_sj_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tr_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_wine_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_omelet_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bbf_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    honey_pie_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_nx_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_nx_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_sj_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_omelet_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_omelet_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hbj_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_pgt_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tsj_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_sj_spice_sugar	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hlbz_spice_garlic	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    honey_pie_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_lxq_spice_chili	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_hsy_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_zscr_spice_salt	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/book_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    book_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bookinfo_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/mk_battle_flag	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_battle_flag	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_battle_flag_item	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_battle_flag_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_battle_flag_item_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/laozi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    laozi	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/laozi_sp	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    laozi_sp	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/mk_peach	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bigpeach	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bigpeach_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_cooked	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_peachtree	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachsprout_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachsapling_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachstump_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtreeburnt_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtree_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtree	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peach_sapling	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtree_short	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtree_normal	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtree_tall	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    peachtreeregenerated_myth	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/fangcunhill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    fangcunhill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/alchmy_fur	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    alchmy_fur	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    alchmy_fur_placer	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/mk_firefx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_firefx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_firefxdie	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_firefire	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bramblefx_mk	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/mk_cloudpuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_cloudpuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    mk_cloudfx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_pills	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    heat_resistant_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    cold_resistant_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    dust_resistant_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    fly_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bloodthirsty_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    condensed_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    armor_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    thorns_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    movemountain_pill	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_buffs	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    fly_pill_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    bloodthirsty_pill_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    condensed_pill_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    armor_pill_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    movemountain_pill_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    wb_shadowheart_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_zpd_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_freezebuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_nutsbuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_icebuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_mooncake_lotusbuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_tsj_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_bz_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyerfx_wheel_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_food_fhy_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    qingniufly_buff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_redbuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_bluebuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_yellowbuff	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_new_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_seeds	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_oversized	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_oversized_waxed	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_oversized_rotten	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    gourd_cooked	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/wine_bottle_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    wine_bottle_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/pill_bottle_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    pill_bottle_gourd	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    pill_bottle_gourd_bb	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/blackbear	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    blackbear	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    blackbear_wind	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/blackbear_rock	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    blackbear_rock	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_boss	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    rhino3_red	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    rhino3_yellow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    rhino3_blue	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_come	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_desk	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_desk	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_desk_light	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_spell	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    rhino3_spell_yellow	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_rhino_desk_spawner	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_rhino_desk_spawner	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_pond_spawner	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering prefab file: prefabs/myth_flyer_fx	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyerfx_cloud	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyerfx_cloud_thunder	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyerfx_cloud_tail	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	    myth_flyerfx_wheel	
+[00:01:13]: Mod: workshop-1991746508 ([DST] Myth Words)	  Registering default mod prefab	
+[00:01:14]: ../mods/workshop-1991746508/images/monkey_king_item.tex is 460x460 but compressed textures must have power of 2 dimensions.
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_std)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_ryx)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_qzh)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_llt)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_bgz)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_blz)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_gxy)
+[00:01:14]: Could not preload undefined prefab (myth_interiors_ghg_groundlight_yhy)
+[00:01:14]: Could not preload undefined prefab (alchmy_fur_copper)
+[00:01:14]: Could not preload undefined prefab (alchmy_fur_ruins)
+[00:01:14]: Could not preload undefined prefab (redlantern_myth_b)
+[00:01:14]: Could not preload undefined prefab (redlantern_myth_c)
+[00:01:14]: Could not preload undefined prefab (redlantern_myth_d)
+[00:01:14]: Could not preload undefined prefab (redlantern_myth_e)
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	Registering prefabs	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/monkey_king	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/mk_jgb	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_jgb	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_jgb_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_phantom	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_jgb_teleportsmoke	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/mk_jgb_pillar	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_jgb_rec	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_jgb_pillar	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/mk_striker	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_striker	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_striker_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/monkey_start_peach	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_start_peach	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/mk_dsf	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_dsf	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_dsf_sound	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/mk_dsf_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_dsf_fx_big	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/mk_dsf_fx_small	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    mk_dsf_fx_small	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/golden_armor_mk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    golden_armor_mk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/golden_hat_mk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    golden_hat_mk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/xzhat_mk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    xzhat_mk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/neza	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    neza	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/neza_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    neza_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/armor_neza	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_damask	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_damask_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/nz_lance	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_lance	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_lance_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/nz_ring	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_ring_shadow	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_ring	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/white_bone	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/white_bone_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/bone_wand	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bone_wand	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/bone_blade	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bone_blade	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/bone_whip	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bone_whip	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/bone_spike	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bonespike	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bonespike_base	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/bone_mirror	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bone_mirror	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorstorage_back	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/wb_armors	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorblood	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorbone	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorfog	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorgreed	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorlight	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_armorstorage	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/white_bone_fog	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_fog	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/bone_pet	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bone_pet	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/wb_skeleton	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_skeleton_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/wb_heart	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_heart	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/pigsy	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/pigsy_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/pigsy_rake	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_rake	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/pigsy_soil	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_soil	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/pigsy_sleepbed	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_sleepbed	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_sleepbed_item	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_sleepbed_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/pigsy_hat	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_hat	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yj_spear	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear_lightning	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear_fire	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear_elec_shockbuff	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear_elec_shockfx_hit	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear_elec_shockfx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yj_spear_elec_preparefx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian_armor	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_armor	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian_hair	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_hair	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian_track	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_track	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/skyhound	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    skyhound	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/skyhound_warg	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    skyhound_warg	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/skyhound_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    skyhound_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_yutu	
+[00:01:15]: UserDataHookLoad	3	../mods/workshop-1699194522/scripts/components/mythuserdatahook.lua	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_yutu_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yt_rabbithole	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yt_rabbithole_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yt_moonbutterfly	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yt_moonbutterfly	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/medicine_pestle_myth	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    medicine_pestle_myth	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    medicine_pestle_container_myth	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yt_daoyao	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yt_daoyao	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_sparkle	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_yutu_heal_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_heal_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/buffs_myth_c	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_sanity_regenbuff	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_regenhealth	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_insomnia	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_fireimmune	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_iceimmune	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_iceshield	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_workup	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_atkelec	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    buff_m_glow	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yutu_items	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_hypnoticherb	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_lifeelixir	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_charged	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_improvehealth	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_becomestar	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_takeiteasy	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_coldeye	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    powder_m_use_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_workup	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_workup_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_workup_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_insomnia	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_insomnia_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_insomnia_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_fireimmune	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_fireimmune_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_fireimmune_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_iceimmune	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_iceimmune_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_iceimmune_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_iceshield	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_iceshield_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_iceshield_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_nocure	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_nocure_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_nocure_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_weakattack	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_weakattack_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_weakattack_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_weakdefense	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_weakdefense_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_weakdefense_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_nolove	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_nolove_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_nolove_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_sweetdream	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_sweetdream_note_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    song_m_sweetdream_wave_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    guitar_jadehare	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    guitar_jadehare_note	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/apricot_flower_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    apricot_flower_fx_held	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    apricot_flower_fx_ground	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/laurel_flower_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    laurel_flower_fx_held	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    laurel_flower_fx_ground	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_bamboo_basket	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_bamboo_basket	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_fxs	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_changefx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_raisefx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_small_puff	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_smoke	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    wb_sand_puff	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_firebird	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    nz_firehit	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    raging_fire_lotus_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_kissfx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_explode	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian_buzzard	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_buzzard	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yangjian_buzzard_spawn	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_buzzard_spawn	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_commissioners	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_commissioners	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_commissioners_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_commissioners_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/commissioners_items	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hat_commissioner_black	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hat_commissioner_white	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    whip_commissioner	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    token_commissioner	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pennant_commissioner	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bell_commissioner	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    token_commissioner_dot_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    token_commissioner_ground_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pennant_commissioner_dot_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pennant_commissioner_ground_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    bell_commissioner_ground_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_specter_dot_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_specter_ground_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_ghast	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_specter	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_ghast_spawn	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_specter_spawn	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_ghast_in_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_specter_in_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_ghast_do_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    soul_specter_do_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    ghost_irritated	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    ghost_clement	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_yama_statue	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yama_statue1	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yama_statue2	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yama_statue3	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yama_statue4	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yama_statue1_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_soulfire_purple	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_soulfire_purple	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_soulfire_blue	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_soulfire_blue	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_plant_equinox_flower	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_higanbana_item	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_higanbana_revive	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_higanbana_tele	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_bahy	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_cqf	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_cqf	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_mound	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_mound	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_gravestone	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_gravestone	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_fire_projetile	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_fire_projetile	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_flyer_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_flyer_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/yama_resurrectionstatue	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_resurrectionstatue	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_astralsanity	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_astralsanity	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_ghostedsanity	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_char_buffs	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    whip_commissioner_buff	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_net	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_spiderden	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_net	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_groundsilk	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_net_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_pitfall	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_pitfall	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_pitfall_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_pitfall_cocoon	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_pitfall_cocoon	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_pitfall_ground	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_pitfall_ground	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_pitfall_trap	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_pitfall_trap	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_detoxify	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_detoxify	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_stinger	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_stinger	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_poisonstinger	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_beemine	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_beemine	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_beemine_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_poisonbeemine	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_poisonbeemine	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_poisonbeemine_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_spiderhome	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_spiderhome	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_spider_warrior	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_spider_warrior	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_bee	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_armor	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_armor	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_silkcocoon	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_silkcocoon_hanged	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_silkcocoon_packed_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_silkcocoon_container	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_silkcocoon_packed	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_silkcocoon	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_poison_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_poison_fx	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/madameweb_feisheng	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    madameweb_feisheng	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/myth_skins_prefab	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_sea	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_horse	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_fire	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_opera	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_ear	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    monkey_king_wine	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    neza_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    neza_green	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    neza_fire	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    neza_pink	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_white	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    white_bone_opera	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_marry	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    pigsy_white	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_black	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_dao	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yangjian_gold	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_frog	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_winter	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_apricot	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_yutu_laurel	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_commissioners_none	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    yama_commissioners_lotus	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    myth_skins_prefab	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/hua_internet_node	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_node	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/hua_internet_node_item	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_node_item	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_node_item_placer	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/hua_internet_link	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_link	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering prefab file: prefabs/hua_internet_builder	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_1	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_2	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_3	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_4	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_5	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_6	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_7	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_8	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_9	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_10	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_11	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_12	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_13	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_14	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_15	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_16	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_17	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_18	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_19	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_20	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_21	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_22	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_23	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_24	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_25	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_26	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_27	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_28	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_29	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_30	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_31	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_32	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_33	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_34	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_35	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_36	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_37	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_38	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_39	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_40	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_41	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_42	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_43	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_44	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_45	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_46	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_47	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_48	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_49	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_50	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_51	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_52	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_53	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_54	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_55	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_56	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_57	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_58	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_59	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_60	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_61	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_62	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_63	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_64	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_65	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_66	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_67	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_68	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_69	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_70	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_71	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_72	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_73	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_74	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_75	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_76	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_77	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_78	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_79	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_80	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_81	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_82	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_83	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_84	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_85	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_86	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_87	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_88	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_89	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_90	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_91	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_92	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_93	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_94	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_95	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_96	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_97	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_98	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_99	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	    hua_internet_builder_100	
+[00:01:15]: Mod: workshop-1699194522 ([DST] Myth Characters)	  Registering default mod prefab	
+[00:01:16]: Could not preload undefined prefab (soil)
+[00:01:17]: 	LOAD BE	
+[00:01:22]: fx/pocketwatch.tex is 640x128 but compressed textures must have power of 2 dimensions.
+[00:01:22]: 	LOAD BE: done	
+[00:01:22]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/peachtree.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/mk_battle_flag.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/alchmy_fur.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/laozi.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_rhino_desk.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/fangcunhill.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_banana_tree.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_ghg.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_yylp.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_treasure_bowl.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_cash_tree_ground.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_goldfrog_base.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_yjp.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_granary.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_well.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_tudi_shrines.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_food_table.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_honeypot.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/laozi_bell.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_plant_bamboo.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1991746508/images/map_icons/myth_lotus_flower.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/monkey_king.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/neza.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/white_bone.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/pigsy.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/yangjian.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/myth_yutu.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/yama_commissioners.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/madameweb.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/mk_jgb.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/nz_lance.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/nz_damask.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/nz_ring.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/pigsy_rake.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/yj_eagle.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/yangjian_armor.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/yangjian_hair.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/skyhound_tooth.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/skyhound.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/yj_spear.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/bone_mirror.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/hat_commissioner_black.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/hat_commissioner_white.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/whip_commissioner.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/token_commissioner.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/pennant_commissioner.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/bell_commissioner.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/myth_yama_statue1.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/commissioner_black.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/guitar_jadehare.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/myth_bamboo_basket.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/madameweb_silkcocoon_hanged.xml )
+[00:01:22]: MiniMapComponent::AddAtlas( ../mods/workshop-1699194522/images/map_icons/madameweb_beemine.xml )
+[00:01:22]: Loading 26 new character(s)	
+[00:01:22]: Total 26 character(s) loaded	
+[00:01:23]: Loading Nav Grid	
+[00:01:23]: World generated on build 490729 with save version: 5.09, using seed: 1639845771	
+[00:01:23]: setting 	summerlength	15	
+[00:01:23]: setting 	cavemoonphase	new	
+[00:01:23]: setting 	iscavefullmoon	false	
+[00:01:23]: setting 	isnightmaredawn	false	
+[00:01:23]: setting 	elapseddaysinseason	0	
+[00:01:23]: setting 	isfullmoon	false	
+[00:01:23]: setting 	moisture	2.5333387851715	
+[00:01:23]: setting 	cavephase	day	
+[00:01:23]: setting 	iscavewaxingmoon	true	
+[00:01:23]: setting 	isnightmarewild	false	
+[00:01:23]: setting 	nightmaretimeinphase	0	
+[00:01:23]: setting 	precipitationrate	0	
+[00:01:23]: setting 	iswet	false	
+[00:01:23]: setting 	isnewmoon	false	
+[00:01:23]: setting 	precipitation	none	
+[00:01:23]: setting 	israining	false	
+[00:01:23]: setting 	time	0.02111562093099	
+[00:01:23]: setting 	temperature	33.110634048663	
+[00:01:23]: setting 	issummer	false	
+[00:01:23]: setting 	winterlength	15	
+[00:01:23]: setting 	springlength	20	
+[00:01:23]: setting 	timeinphase	0.042231241861979	
+[00:01:23]: setting 	moistureceil	860.1171875	
+[00:01:23]: setting 	isday	true	
+[00:01:23]: setting 	cycles	0	
+[00:01:23]: setting 	season	autumn	
+[00:01:23]: setting 	issnowing	false	
+[00:01:23]: setting 	isalterawake	false	
+[00:01:23]: setting 	isnightmarecalm	false	
+[00:01:23]: setting 	isnight	false	
+[00:01:23]: setting 	isdusk	false	
+[00:01:23]: setting 	iscavedusk	false	
+[00:01:23]: setting 	isautumn	true	
+[00:01:23]: setting 	iscaveday	true	
+[00:01:23]: setting 	moonphase	new	
+[00:01:23]: setting 	seasonprogress	0.5	
+[00:01:23]: setting 	snowlevel	0	
+[00:01:23]: setting 	iswaxingmoon	true	
+[00:01:23]: setting 	autumnlength	20	
+[00:01:23]: setting 	phase	day	
+[00:01:23]: setting 	nightmaretime	0	
+[00:01:23]: setting 	pop	0.0029453414278755	
+[00:01:23]: setting 	issnowcovered	false	
+[00:01:23]: setting 	nightmarephase	none	
+[00:01:23]: setting 	isspring	false	
+[00:01:23]: setting 	wetness	0	
+[00:01:23]: setting 	iscavenight	false	
+[00:01:23]: setting 	iscavenewmoon	false	
+[00:01:23]: setting 	remainingdaysinseason	20	
+[00:01:23]: setting 	iswinter	false	
+[00:01:23]: setting 	isnightmarewarn	false	
+[00:01:23]: Reconstructing topology	
+[00:01:23]: 	...Sorting points	
+[00:01:23]: 	...Sorting edges	
+[00:01:23]: 	...Connecting nodes	
+[00:01:23]: 	...Validating connections	
+[00:01:23]: 	...Housekeeping	
+[00:01:23]: 	...Done!	
+[00:01:23]: Check for write access: TRUE
+[00:01:23]: Check for read access: TRUE
+[00:01:23]: Available disk space for save files: 290832 MB
+[00:01:23]: ModIndex: Load sequence finished successfully.	
+[00:01:23]: Reset() returning
+[00:01:23]: link >> success	
+[00:01:24]: Attempting to send resume request
+[00:01:25]: ReceiveResumeNotification
+[00:01:25]: Movement prediction enabled	
+[00:01:25]: Deserializing tile data (425 x 425)
+[00:01:25]: Serializing user: session/1BBA2E7405B1E8DC/A7N4PO5N7F2C/0000000001
+[00:01:28]: SimLuaProxy::QueryServer()
+[00:01:29]: link >> success	
+[00:01:44]: SimLuaProxy::QueryServer()
+[00:01:45]: link >> success	
+[00:01:55]: SimLuaProxy::QueryServer()
+[00:01:56]: link >> success	
+[00:02:06]: [Steam] Game Connection terminated (2883822287|10999)
+[00:02:06]: [Shard] Stopping shard mode
+[00:02:06]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:06]: Collecting garbage...
+[00:02:07]: lua_gc took 0.06 seconds
+[00:02:07]: ~ShardLuaProxy()
+[00:02:07]: ~cEventLeaderboardProxy()
+[00:02:07]: ~ItemServerLuaProxy()
+[00:02:07]: ~InventoryLuaProxy()
+[00:02:07]: ~NetworkLuaProxy()
+[00:02:07]: ~SimLuaProxy()
+[00:02:07]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:07]: lua_close took 0.08 seconds
+[00:02:07]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:02:07]: saved ping_cache
+[00:02:07]: [Steam] Auth ticket cancelled
+[00:02:07]: Could not unload undefined prefab (alchmy_fur_copper)
+[00:02:07]: Could not unload undefined prefab (alchmy_fur_ruins)
+[00:02:07]: Could not unload undefined prefab (soil)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_std)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_ryx)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_qzh)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_llt)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_bgz)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_blz)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_gxy)
+[00:02:07]: Could not unload undefined prefab (myth_interiors_ghg_groundlight_yhy)
+[00:02:07]: Could not unload undefined prefab (redlantern_myth_b)
+[00:02:07]: Could not unload undefined prefab (redlantern_myth_c)
+[00:02:07]: Could not unload undefined prefab (redlantern_myth_d)
+[00:02:07]: Could not unload undefined prefab (redlantern_myth_e)
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:07]: CurlRequestManager::ClientThread::Main() complete
+[00:02:07]: HttpClient2 discarded 0 callbacks.
+[00:02:07]: Shutting down

@@ -1,0 +1,570 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 23%
+	Available Physical Memory: 18578m/24407m
+	Available Page File: 20674m/27991m
+	Available Virtual Memory: 134213457m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 248k
+	Quota Page Pool Usage: 245k
+	Quota Peak Non Paged Pool Usage:18k
+	Quota Non Paged Pool Usage: 17k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 490507
+[00:00:00]: Current time: Fri Dec 17 00:37:14 2021
+
+[00:00:00]: Don't Starve Together: 490507 WIN32_STEAM
+[00:00:00]: Build Date: 567
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 7893118
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/1217881902/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (11920)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: Texture Streaming: ENABLED
+[00:00:00]: Threaded Renderer: ENABLED
+[00:00:00]: ProfileIndex:2.74
+[00:00:00]: THREAD - started 'SimUpdateThread' (13684)
+[00:00:00]: THREAD - started 'RenderThread' (11584)
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (14264)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_steam_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (6352)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561199178147630
+[00:00:00]: SteamID: 76561199178147630
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (5636)
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (11356)
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2592
+    name                      Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 24576
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      
+    name                      NVIDIA GeForce GTX 1650
+    driverVersion             27.21.14.5167
+    driverDate                20200705000000.000000-000
+    refreshRate               0
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1920,1001 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: RestoreWindowPosition
+[00:00:00]:    Saved Client Pos (0 x 29)
+[00:00:00]:    Adjusted Window Pos (-9 x -9)
+[00:00:00]: EnsureWindowOnScreen
+[00:00:00]:    All good.
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1650)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: THREAD - started 'WindowsInputManager' (7176)
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence.
+	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1120124958	
+[00:00:01]: Loading mod: workshop-1120124958 (Boss Indicators) Version:0.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1398552073	
+[00:00:01]: Loading mod: workshop-1398552073 (Custom Server Size) Version:1.6	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:01]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-694531911	
+[00:00:01]: Loading mod: workshop-694531911 ( [DST]Aerial View) Version:1.2.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:00:01]: Loading mod: workshop-836583293 (Item Info) Version:0.53	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:00:01]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:01]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2302837868	
+[00:00:01]: Loading mod: workshop-2302837868 (Snapping tills) Version:1.1.5	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1398552073 (Custom Server Size)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1398552073 (Custom Server Size)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1398552073 (Custom Server Size)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:00:01]: Mod: workshop-1120124958 (Boss Indicators)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1120124958 (Boss Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1120124958 (Boss Indicators)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-694531911 ( [DST]Aerial View)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:00:01]: Mod: workshop-2302837868 (Snapping tills)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2302837868 (Snapping tills)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2302837868 (Snapping tills)	Loading modmain.lua	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths loaded morgue	6577	
+[00:00:03]: PlayerHistory loaded player_history (v2) len:4101	
+[00:00:03]: ServerPreferences loaded server_preferences	2	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: EnableShadeRenderer: 	true	
+[00:00:03]: loaded shardsaveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:00:05]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:05]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1398552073 (Custom Server Size)	Registering prefabs	
+[00:00:05]: Mod: workshop-1398552073 (Custom Server Size)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:05]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1120124958 (Boss Indicators)	Registering prefabs	
+[00:00:05]: Mod: workshop-1120124958 (Boss Indicators)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-694531911 ( [DST]Aerial View)	Registering prefabs	
+[00:00:05]: Mod: workshop-694531911 ( [DST]Aerial View)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:00:05]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:00:05]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:00:05]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:00:05]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:00:05]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-2302837868 (Snapping tills)	Registering prefabs	
+[00:00:05]: Mod: workshop-2302837868 (Snapping tills)	  Registering prefab file: prefabs/snaptillplacer	
+[00:00:05]: Mod: workshop-2302837868 (Snapping tills)	    snaptillplacer	
+[00:00:05]: Mod: workshop-2302837868 (Snapping tills)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (2348)
+[00:00:05]: FilesExistAsyncThread started (19488 files)...
+[00:00:05]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1217881902/client_save/blocklist.txt (Failure)
+[00:00:05]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1217881902/client_save/adminlist.txt (Failure)
+[00:00:05]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1217881902/client_save/whitelist.txt (Failure)
+[00:00:05]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=VN&lang=english&version=490507	
+[00:00:05]: SimLuaProxy::QueryServer()
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 321991 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: Do AutoLogin	
+[00:00:05]: [Steam] Auth Session Ticket requested...
+[00:00:06]: [MOTD] Done Loading.	
+[00:00:06]: [Steam] Got Auth Session Ticket
+[00:00:08]: ... FilesExistAsyncThread complete
+[00:00:09]: [200] Account Communication Success (3)
+[00:00:09]: Logging in as KU_vCuBSxnC
+[00:00:09]: There is no active event to get the status of.
+[00:00:11]: loaded inventory_cache_prod
+[00:00:11]: using inventory state token from cached file
+[00:00:13]: saved APP:Klei//DoNotStarveTogether/1217881902/client_save/inventory_cache_prod
+[00:00:13]: saved APP:Klei//DoNotStarveTogether/1217881902/client_save/inventory_cache_prod_sig
+[00:00:39]: Getting top mod details...
+[00:00:39]: ../mods/workshop-2208128427/images/modicon.tex is 120x120 but compressed textures must have power of 2 dimensions.
+[00:00:40]: GOT top mod details...50
+[00:00:41]: Frontend-Unloading mod 'all'.	
+[00:00:42]: Getting display mode: Querying display 1 [of 1]
+[00:00:42]: 	\: 1920, 1080, 60
+[00:00:54]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:55]: Friends are currently playing in 0 games(s)!
+[00:00:55]: You belong to 0 clan(s)!
+[00:00:55]: Downloaded server listings - chunk 0 (Sing): 3690 filtered completed: 2758
+[00:00:55]: Downloaded server listings - chunk 1 (US): 2665 filtered completed: 4685
+[00:00:56]: Downloaded server listings - chunk 2 (EU): 2603 filtered completed: 6244
+[00:01:09]: OpenBox post body {"ItemID": 278570853152853344}
+[00:01:13]: [OpenBox_Complete Success:200] {"Error":false,"Items":[{"ItemID":771275598130864622,"ItemType":"BUGNET_LAVAPROOF","Modified":1639676304.6535497,"Context":1},{"ItemID":771275598130864623,"ItemType":"ALTERGUARDIANHAT_LASTPRISM","Modified":1639676304.8694644,"Context":1},{"ItemID":771275598130864624,"ItemType":"ICESTAFF_ICEROD","Modified":1639676305.0839856,"Context":1},{"ItemID":771275598130864625,"ItemType":"HAMMER_HAMMUSH","Modified":1639676305.3054924,"Context":1},{"ItemID":771275598130864626,"ItemType":"NIGHTSWORD_LIGHTSBANE","Modified":1639676305.5184207,"Context":1},{"ItemID":771275598130864621,"ItemType":"ARMOR_SKELETON_SHADOWSCALEMAIL","Modified":1639676304.4385018,"Context":1}]}
+
+[00:01:35]: OpenBox post body {"ItemID": 1072989431880487242}
+[00:01:39]: [OpenBox_Complete Success:200] {"Error":false,"Items":[{"ItemID":451365455307738038,"ItemType":"WALTERHAT_BEEP","Modified":1639676330.784605,"Context":1},{"ItemID":451365455307738039,"ItemType":"WALTER_BEE_P","Modified":1639676331.073444,"Context":1},{"ItemID":451365455307738040,"ItemType":"BODY_WALTER_BEEP","Modified":1639676331.4884894,"Context":1}]}
+
+[00:06:04]: StartPurchase post body {"ItemType": "PACK_YULE_ITEMS", "SalePercent": 0}
+[00:06:18]: SteamItemPurchase::CompleteCallback (failure, CANCELLED) set
+[00:07:10]: Getting top mod details...
+[00:07:10]: ../mods/workshop-2208128427/images/modicon.tex is 120x120 but compressed textures must have power of 2 dimensions.
+[00:07:10]: GOT top mod details...50
+[00:07:15]: FrontendLoadMod	workshop-1290774114	
+[00:07:15]: Could not load mod_config_data/modconfiguration_workshop-1290774114	
+[00:07:15]: Fontend-Loading mod: workshop-1290774114 (Admin Scoreboard+) Version:1.22	
+[00:07:15]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modservercreationmain.lua	
+[00:07:15]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:07:15]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modworldgenmain.lua	
+[00:07:15]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:18]: Collecting garbage...
+[00:07:18]: lua_gc took 0.04 seconds
+[00:07:18]: ~ShardLuaProxy()
+[00:07:18]: ~cEventLeaderboardProxy()
+[00:07:18]: ~ItemServerLuaProxy()
+[00:07:18]: ~InventoryLuaProxy()
+[00:07:18]: ~NetworkLuaProxy()
+[00:07:18]: ~SimLuaProxy()
+[00:07:18]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:07:18]: lua_close took 0.04 seconds
+[00:07:18]: ReleaseAll
+[00:07:18]: ReleaseAll Finished
+[00:07:18]: cGame::StartPlaying
+[00:07:18]: AppVersion::GetArchitecture() x64
+[00:07:18]: LOADING LUA
+[00:07:18]: DoLuaFile scripts/main.lua
+[00:07:18]: DoLuaFile loading buffer scripts/main.lua
+[00:07:18]:   taskgrouplist:	default	Together	
+[00:07:18]:   taskgrouplist:	classic	Classic	
+[00:07:18]:   taskgrouplist:	cave_default	Underground	
+[00:07:18]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:07:18]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:07:18]: running main.lua
+	
+[00:07:18]: unloading prefabs for mod workshop-836583293 (Item Info)	
+[00:07:18]: unloading prefabs for mod workshop-345692228 (Minimap HUD)	
+[00:07:18]: unloading prefabs for mod workshop-1398552073 (Custom Server Size)	
+[00:07:18]: unloading prefabs for mod workshop-376333686 (Combined Status)	
+[00:07:18]: unloading prefabs for mod workshop-1120124958 (Boss Indicators)	
+[00:07:18]: unloading prefabs for mod workshop-694531911 ( [DST]Aerial View)	
+[00:07:18]: unloading prefabs for mod workshop-351325790 (Geometric Placement)	
+[00:07:18]: unloading prefabs for mod workshop-2302837868 (Snapping tills)	
+[00:07:18]: loaded modindex	
+[00:07:19]: ModIndex: Beginning normal load sequence.
+	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-1120124958	
+[00:07:19]: Loading mod: workshop-1120124958 (Boss Indicators) Version:0.3	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-1290774114	
+[00:07:19]: Loading mod: workshop-1290774114 (Admin Scoreboard+) Version:1.22	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-1398552073	
+[00:07:19]: Loading mod: workshop-1398552073 (Custom Server Size) Version:1.6	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:07:19]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-694531911	
+[00:07:19]: Loading mod: workshop-694531911 ( [DST]Aerial View) Version:1.2.3	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:07:19]: Loading mod: workshop-836583293 (Item Info) Version:0.53	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-351325790	
+[00:07:19]: Loading mod: workshop-351325790 (Geometric Placement) Version:3.0.11	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:07:19]: Loading mod: workshop-376333686 (Combined Status) Version:1.8.5	
+[00:07:19]: Could not load mod_config_data/modconfiguration_workshop-2302837868	
+[00:07:19]: Loading mod: workshop-2302837868 (Snapping tills) Version:1.1.5	
+[00:07:19]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:07:19]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:07:19]: Mod: workshop-1398552073 (Custom Server Size)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-1398552073 (Custom Server Size)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-1398552073 (Custom Server Size)	Loading modmain.lua	
+[00:07:19]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:07:19]: Mod: workshop-1120124958 (Boss Indicators)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-1120124958 (Boss Indicators)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-1120124958 (Boss Indicators)	Loading modmain.lua	
+[00:07:19]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-694531911 ( [DST]Aerial View)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-694531911 ( [DST]Aerial View)	Loading modmain.lua	
+[00:07:19]: Mod: workshop-351325790 (Geometric Placement)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-351325790 (Geometric Placement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-351325790 (Geometric Placement)	Loading modmain.lua	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1120124958	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1290774114	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1398552073	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-694531911	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-351325790	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:07:19]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2302837868	
+[00:07:19]: Mod: workshop-2302837868 (Snapping tills)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-2302837868 (Snapping tills)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-2302837868 (Snapping tills)	Loading modmain.lua	
+[00:07:19]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modworldgenmain.lua	
+[00:07:19]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:07:19]: Mod: workshop-1290774114 (Admin Scoreboard+)	Loading modmain.lua	
+[00:07:19]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:07:19]: LOADING LUA SUCCESS
+[00:07:19]: PlayerDeaths loaded morgue	6577	
+[00:07:19]: PlayerHistory loaded player_history (v2) len:4101	
+[00:07:19]: ServerPreferences loaded server_preferences	2	
+[00:07:19]: bloom_enabled	true	
+[00:07:19]: EnableShadeRenderer: 	true	
+[00:07:19]: loaded shardsaveindex	
+[00:07:19]: OnFilesLoaded()	
+[00:07:19]: OnUpdatePurchaseStateComplete	
+[00:07:19]: Klump load on boot started.	
+[00:07:19]: Klump files loaded: 	0	
+[00:07:19]: 	Unload BE	
+[00:07:19]: 	Unload BE done	
+[00:07:20]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:07:20]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:07:20]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-1398552073 (Custom Server Size)	Registering prefabs	
+[00:07:20]: Mod: workshop-1398552073 (Custom Server Size)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:07:20]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-1120124958 (Boss Indicators)	Registering prefabs	
+[00:07:20]: Mod: workshop-1120124958 (Boss Indicators)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-694531911 ( [DST]Aerial View)	Registering prefabs	
+[00:07:20]: Mod: workshop-694531911 ( [DST]Aerial View)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-351325790 (Geometric Placement)	Registering prefabs	
+[00:07:20]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/actiongridplacer	
+[00:07:20]: Mod: workshop-351325790 (Geometric Placement)	    till_actiongridplacer	
+[00:07:20]: Mod: workshop-351325790 (Geometric Placement)	  Registering prefab file: prefabs/buildgridplacer	
+[00:07:20]: Mod: workshop-351325790 (Geometric Placement)	    buildgridplacer	
+[00:07:20]: Mod: workshop-351325790 (Geometric Placement)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-2302837868 (Snapping tills)	Registering prefabs	
+[00:07:20]: Mod: workshop-2302837868 (Snapping tills)	  Registering prefab file: prefabs/snaptillplacer	
+[00:07:20]: Mod: workshop-2302837868 (Snapping tills)	    snaptillplacer	
+[00:07:20]: Mod: workshop-2302837868 (Snapping tills)	  Registering default mod prefab	
+[00:07:20]: Mod: workshop-1290774114 (Admin Scoreboard+)	Registering prefabs	
+[00:07:20]: Mod: workshop-1290774114 (Admin Scoreboard+)	  Registering default mod prefab	
+[00:07:20]: 	Load FE	
+[00:07:20]: 	Load FE: done	
+[00:07:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1217881902/client_save/blocklist.txt (Failure)
+[00:07:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1217881902/client_save/adminlist.txt (Failure)
+[00:07:20]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1217881902/client_save/whitelist.txt (Failure)
+[00:07:20]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=VN&lang=english&version=490507	
+[00:07:20]: SimLuaProxy::QueryServer()
+[00:07:20]: Check for write access: TRUE
+[00:07:20]: Check for read access: TRUE
+[00:07:20]: Available disk space for save files: 321998 MB
+[00:07:20]: ModIndex: Load sequence finished successfully.	
+[00:07:20]: Reset() returning
+[00:07:20]: Do AutoLogin	
+[00:07:21]: [MOTD] Done Loading.	
+[00:07:21]: [200] Account Communication Success (6)
+[00:07:21]: Received (KU_vCuBSxnC) from TokenPurpose
+[00:07:21]: [Steam] Auth Session Ticket requested...
+[00:07:22]: [Steam] Got Auth Session Ticket
+[00:07:22]: There is no active event to get the status of.
+[00:07:24]: loaded inventory_cache_prod
+[00:07:24]: using inventory state token from cached file
+[00:07:27]: saved APP:Klei//DoNotStarveTogether/1217881902/client_save/inventory_cache_prod
+[00:07:27]: saved APP:Klei//DoNotStarveTogether/1217881902/client_save/inventory_cache_prod_sig
+[00:08:44]: cSoundEmitterComponent::PlaySound() already playing sound named [FROMNUM]
+[00:16:37]: SwapItem post body {"SwapType": "9_COMMON_UPGRADE", "Items": [218976613442559281, 1062173593481354660, 420796012364404590, 170967068995857156, 643414201070850954, 921002370103935075, 539311774608231262, 897340290141677393, 718520191320466417]}
+[00:16:42]: [SwapItems_Complete Success:200] {"Error":false,"ItemID":478736384760632692,"ItemType":"BODY_SWEATERVEST_GREEN_FOREST"}
+
+[00:16:42]: Item swap completed	true	Items swapped	body_sweatervest_green_forest	
+[00:17:03]: SwapItem post body {"SwapType": "9_COMMON_UPGRADE", "Items": [942120310360125606, 962607284380580441, 176937474838150890, 370859827865371963, 264500588130538469, 247898027600915382, 728006444037175881, 539311774608600186, 602347386250196259]}
+[00:17:07]: [SwapItems_Complete Success:200] {"Error":false,"ItemID":771275598130865356,"ItemType":"BODY_SUSPENDERS_BLUE_CORNFLOWER"}
+
+[00:17:07]: Item swap completed	true	Items swapped	body_suspenders_blue_cornflower	
+[00:19:22]: Getting display mode: Querying display 1 [of 1]
+[00:19:22]: 	\: 1920, 1080, 60
+[00:20:11]: Getting top mod details...
+[00:20:11]: ../mods/workshop-2208128427/images/modicon.tex is 120x120 but compressed textures must have power of 2 dimensions.
+[00:20:13]: GOT top mod details...50
+[00:20:18]: Frontend-Unloading mod 'all'.	
+[00:20:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:21]: Collecting garbage...
+[00:20:21]: lua_gc took 0.03 seconds
+[00:20:21]: ~ShardLuaProxy()
+[00:20:21]: ~cEventLeaderboardProxy()
+[00:20:21]: ~ItemServerLuaProxy()
+[00:20:21]: ~InventoryLuaProxy()
+[00:20:21]: ~NetworkLuaProxy()
+[00:20:21]: ~SimLuaProxy()
+[00:20:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:21]: lua_close took 0.04 seconds
+[00:20:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:20:21]: saved ping_cache
+[00:20:21]: [Steam] Auth ticket cancelled
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:20:21]: CurlRequestManager::ClientThread::Main() complete
+[00:20:21]: HttpClient2 discarded 0 callbacks.
+[00:20:21]: Shutting down

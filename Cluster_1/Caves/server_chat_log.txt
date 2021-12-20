@@ -1,0 +1,153 @@
+[00:01:54]: [Join Announcement] Duc Nguyen
+[00:02:36]: [Join Announcement] cây chanh
+[00:03:12]: [Join Announcement] Thái An
+[00:04:00]: [Join Announcement] LynuocMias
+[00:05:42]: [Leave Announcement] cây chanh
+[00:06:11]: [Death Announcement] LynuocMias was killed by Spider. He became a spooky ghost!
+[00:06:34]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[00:07:53]: [Death Announcement] LynuocMias was killed by Spider. He became a spooky ghost!
+[00:08:15]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[00:08:17]: [Join Announcement] cây chanh
+[00:10:58]: [Death Announcement] LynuocMias was killed by 污秽纸人. He became a spooky ghost!
+[00:12:57]: [Death Announcement] Duc Nguyen was killed by 污秽纸人. She became a spooky ghost!
+[00:13:08]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[00:13:13]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:13:37]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[00:13:38]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[00:14:07]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[00:14:20]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:15:04]: [Death Announcement] Duc Nguyen was killed by 污秽纸人. She became a spooky ghost!
+[00:15:13]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[00:16:57]: [Join Announcement] NTL Game Tips
+[00:17:15]: [Skin Announcement] cây chanh body_wes_shadowp
+[00:27:34]: [Skin Announcement] Duc Nguyen hand_drivergloves_tan_grass
+[00:27:52]: [Leave Announcement] Duc Nguyen
+[00:32:13]: [Skin Announcement] LynuocMias legs_pj_red_redbird
+[00:42:00]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[00:42:03]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:42:10]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[00:42:43]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:51:43]: [Death Announcement] cây chanh was killed by Deerclops. He became a spooky ghost!
+[00:52:32]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:53:02]: [Death Announcement] LynuocMias was killed by Deerclops. He became a spooky ghost!
+[00:53:37]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[00:54:46]: [Death Announcement] cây chanh was killed by Deerclops. He became a spooky ghost!
+[00:55:00]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:55:30]: [Death Announcement] LynuocMias was killed by Deerclops. He became a spooky ghost!
+[00:55:52]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[00:56:50]: [Death Announcement] LynuocMias was killed by Deerclops. He became a spooky ghost!
+[00:57:09]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[00:59:47]: [Death Announcement] LynuocMias was killed by Deerclops. He became a spooky ghost!
+[00:59:54]: [Join Announcement] Duc Nguyen
+[01:00:01]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[01:01:52]: [Death Announcement] LynuocMias was killed by Deerclops. He became a spooky ghost!
+[01:01:55]: [Death Announcement] Thái An was killed by Deerclops. She became a spooky ghost!
+[01:02:06]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[01:02:17]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:03:45]: [Death Announcement] cây chanh was killed by Freezing. He became a spooky ghost!
+[01:03:48]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[01:04:30]: [Death Announcement] Duc Nguyen was killed by Freezing. She became a spooky ghost!
+[01:04:37]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:14:31]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[01:15:37]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[01:15:44]: [Death Announcement] Duc Nguyen was killed by 污秽纸人. She became a spooky ghost!
+[01:17:03]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:18:30]: [Death Announcement] cây chanh was killed by Freezing. He became a spooky ghost!
+[01:18:35]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[01:23:46]: [Death Announcement] Duc Nguyen was killed by Freezing. She became a spooky ghost!
+[01:25:20]: [Death Announcement] NTL Game Tips was killed by Monster Meat. He became a spooky ghost!
+[01:25:22]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[01:25:24]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:33:39]: [Skin Announcement] LynuocMias legs_wolfgang_wolfman
+[01:36:57]: [Death Announcement] Duc Nguyen was killed by Tentacle. She became a spooky ghost!
+[01:37:03]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:37:41]: [Death Announcement] Duc Nguyen was killed by Tentacle. She became a spooky ghost!
+[01:37:50]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:38:06]: [Leave Announcement] cây chanh
+[01:38:29]: [Death Announcement] Duc Nguyen was killed by Tentacle. She became a spooky ghost!
+[01:38:34]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:38:46]: [Death Announcement] Duc Nguyen was killed by Darkness. She became a spooky ghost!
+[01:41:35]: [Join Announcement] cây chanh
+[01:47:08]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[01:47:15]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[01:47:19]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:47:34]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[01:47:40]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:50:03]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[01:50:07]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:50:35]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:50:54]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[01:51:10]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:56:56]: [Death Announcement] cây chanh was killed by Darkness. He became a spooky ghost!
+[02:01:00]: [Death Announcement] Thái An was killed by Hound. She became a spooky ghost!
+[02:01:24]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:01:53]: [Leave Announcement] cây chanh
+[02:02:35]: [Join Announcement] cây chanh
+[02:03:15]: [Death Announcement] NTL Game Tips was killed by Frog. He became a spooky ghost!
+[02:03:19]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[02:06:12]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[02:08:48]: [Leave Announcement] Duc Nguyen
+[02:11:03]: [Death Announcement] NTL Game Tips was killed by Frog. He became a spooky ghost!
+[02:11:06]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[02:12:35]: [Death Announcement] cây chanh was killed by Darkness. He became a spooky ghost!
+[02:14:09]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[02:19:02]: [Death Announcement] cây chanh was killed by Spider. He became a spooky ghost!
+[02:19:07]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[02:19:53]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[02:19:55]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[02:19:57]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[02:20:00]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:20:11]: [Death Announcement] NTL Game Tips was killed by 污秽纸人. He became a spooky ghost!
+[02:20:13]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[02:20:19]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:20:29]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[02:20:29]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[02:20:34]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:20:35]: [Death Announcement] NTL Game Tips was killed by 污秽纸人. He became a spooky ghost!
+[02:20:43]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[02:20:47]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:20:54]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[02:20:57]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:21:03]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[02:27:20]: [Leave Announcement] Thái An
+[02:28:52]: [Death Announcement] NTL Game Tips was killed by Darkness. He became a spooky ghost!
+[02:28:55]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[02:28:57]: [Join Announcement] Thái An
+[02:45:49]: [Skin Announcement] LynuocMias mysterybox_ice_4
+[02:48:36]: [Death Announcement] NTL Game Tips was killed by Freezing. He became a spooky ghost!
+[02:48:38]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[02:51:38]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[02:52:17]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[02:52:38]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[02:52:40]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[03:06:29]: [Death Announcement] NTL Game Tips was killed by Terrorbeak. He became a spooky ghost!
+[03:06:32]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:13:30]: [Death Announcement] NTL Game Tips was killed by Frog. He became a spooky ghost!
+[03:13:32]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:20:35]: [Death Announcement] NTL Game Tips was killed by Spider. He became a spooky ghost!
+[03:20:42]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:21:17]: [Death Announcement] NTL Game Tips was killed by Hound. He became a spooky ghost!
+[03:21:19]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:21:36]: [Death Announcement] NTL Game Tips was killed by Hound. He became a spooky ghost!
+[03:21:38]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:24:21]: [Say] (KU_vCuBTa-S) Thái An: ./chicken
+[03:24:25]: [Death Announcement] NTL Game Tips was killed by Crawling Horror. He became a spooky ghost!
+[03:25:10]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:27:53]: [Death Announcement] Thái An was killed by Krampus. She became a spooky ghost!
+[03:28:32]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[03:30:37]: [Leave Announcement] LynuocMias
+[03:49:01]: [Death Announcement] cây chanh was killed by Frog. He became a spooky ghost!
+[03:49:16]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[03:50:04]: [Death Announcement] cây chanh was killed by Frog. He became a spooky ghost!
+[03:50:23]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[03:54:27]: [Death Announcement] NTL Game Tips was killed by Terrorbeak. He became a spooky ghost!
+[03:54:33]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[03:55:51]: [Death Announcement] cây chanh was killed by 污秽纸人. He became a spooky ghost!
+[03:56:11]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[03:56:30]: [Death Announcement] Thái An was killed by 污秽纸人. She became a spooky ghost!
+[03:56:32]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[03:59:30]: [Leave Announcement] cây chanh
+[04:03:54]: [Join Announcement] cây chanh
+[04:10:55]: [Leave Announcement] Thái An
+[04:13:28]: [Leave Announcement] cây chanh
+[04:13:41]: [Leave Announcement] NTL Game Tips

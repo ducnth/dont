@@ -1,0 +1,38 @@
+[00:28:08]: [Join Announcement] Thái An
+[00:28:14]: [Join Announcement] Duc Nguyen
+[00:39:11]: [Death Announcement] Duc Nguyen was killed by Starvation. She became a spooky ghost!
+[00:40:03]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[00:44:53]: [Join Announcement] cây chanh
+[00:45:51]: [Say] (KU_PP5FpGlu) cây chanh: hôm nay mạng yếu r
+[00:46:15]: [Leave Announcement] cây chanh
+[00:58:43]: [Death Announcement] Duc Nguyen was killed by Blue Hound. She became a spooky ghost!
+[00:58:50]: [Death Announcement] Thái An was killed by MacTusk. She became a spooky ghost!
+[00:58:59]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[00:59:07]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[00:59:15]: [Death Announcement] Thái An was killed by Blue Hound. She became a spooky ghost!
+[00:59:22]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[00:59:23]: [Death Announcement] Duc Nguyen was killed by MacTusk. She became a spooky ghost!
+[00:59:51]: [Join Announcement] LynuocMias
+[01:00:23]: [Join Announcement] cây chanh
+[01:00:23]: [Death Announcement] Thái An was killed by Blue Hound. She became a spooky ghost!
+[01:00:24]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:00:34]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:00:55]: [Say] (KU_MAFS6Jp5) LynuocMias: lam tu lanh ei
+[01:02:00]: [Death Announcement] Duc Nguyen was killed by Freezing. She became a spooky ghost!
+[01:02:09]: [Say] (KU_MAFS6Jp5) LynuocMias: nao tut qua
+[01:02:12]: [Resurrect Announcement] Duc Nguyen was resurrected by Skeleton.
+[01:02:33]: [Say] (KU_MAFS6Jp5) LynuocMias: con silk k mn?
+[01:04:41]: [Death Announcement] LynuocMias was killed by Crawling Horror. He became a spooky ghost!
+[01:04:52]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[01:05:19]: [Say] (KU_MAFS6Jp5) LynuocMias: anh Chanh
+[01:05:22]: [Whisper] (KU_MAFS6Jp5) LynuocMias: huhuh
+[01:05:34]: [Say] (KU_PP5FpGlu) cây chanh: sao
+[01:05:40]: [Say] (KU_MAFS6Jp5) LynuocMias: toi'
+[01:05:55]: [Say] (KU_PP5FpGlu) cây chanh: sáng
+[01:05:58]: [Say] (KU_MAFS6Jp5) LynuocMias: huhu
+[01:07:55]: [Say] (KU_MAFS6Jp5) LynuocMias: fast traval
+[01:10:02]: [Say] (KU_MAFS6Jp5) LynuocMias: farm chim xanh nhanh ghe
+[01:11:32]: [Leave Announcement] Thái An
+[01:11:32]: [Leave Announcement] Duc Nguyen
+[01:11:32]: [Leave Announcement] LynuocMias
+[01:11:32]: [Leave Announcement] cây chanh

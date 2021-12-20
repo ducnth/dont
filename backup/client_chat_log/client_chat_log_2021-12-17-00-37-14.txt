@@ -1,0 +1,37 @@
+[00:04:51]: [Join Announcement] thaonguyenden81
+[00:04:54]: [Join Announcement] Thái An
+[00:07:55]: [Join Announcement] Mouse
+[00:10:00]: [Death Announcement] cây chanh was killed by Duc Nguyen. He became a spooky ghost!
+[00:10:22]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:12:25]: [Death Announcement] Duc Nguyen was killed by cây chanh. He became a spooky ghost!
+[00:12:42]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:15:16]: [Death Announcement] cây chanh was killed by Sentry Gun. He became a spooky ghost!
+[00:15:19]: [Resurrect Announcement] cây chanh was resurrected by Endothermic Fire Pit.
+[00:25:03]: [Join Announcement] Thái An
+[00:29:51]: [Join Announcement] Mouse
+[00:32:45]: [Death Announcement] Duc Nguyen was killed by Freezing. He became a spooky ghost!
+[00:33:00]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:33:36]: [Death Announcement] Duc Nguyen was killed by Klaus. He became a spooky ghost!
+[00:33:58]: [Death Announcement] cây chanh was killed by Freezing. He became a spooky ghost!
+[00:34:07]: [Vote Announcement] rollback passed
+[00:40:15]: [Leave Announcement] Mouse
+[00:40:41]: [Leave Announcement] Thái An
+[00:40:59]: [Death Announcement] thaonguyenden81 was killed by Winona's Catapult. She became a spooky ghost!
+[00:41:58]: [Death Announcement] Duc Nguyen was killed by Overheating. He became a spooky ghost!
+[00:42:16]: [Join Announcement] Thái An
+[00:42:53]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:42:58]: [Resurrect Announcement] thaonguyenden81 was resurrected by Fire Pit.
+[00:43:24]: [Leave Announcement] Thái An
+[00:45:46]: [Join Announcement] Thái An
+[00:45:54]: [Death Announcement] thaonguyenden81 was killed by Deerclops. She became a spooky ghost!
+[00:45:54]: [Death Announcement] Duc Nguyen was killed by Deerclops. He became a spooky ghost!
+[00:46:03]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:46:09]: [Resurrect Announcement] thaonguyenden81 was resurrected by Fire Pit.
+[00:47:00]: [Death Announcement] Duc Nguyen was killed by Crawling Horror. He became a spooky ghost!
+[00:47:07]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:57:54]: [Death Announcement] Thái An was killed by Freezing. She became a spooky ghost!
+[00:58:22]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:09:54]: [Skin Announcement] thaonguyenden81 hand_shortgloves_navy_midnight
+[01:16:26]: [Death Announcement] Thái An was killed by Frog. She became a spooky ghost!
+[01:17:02]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[01:23:09]: [Leave Announcement] Thái An

@@ -1,0 +1,47 @@
+[00:14:54]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[00:15:09]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
+[00:15:26]: [Leave Announcement] Tracy
+[00:16:11]: [Death Announcement] Duc Nguyen was killed by Bearger. He became a spooky ghost!
+[00:16:20]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[00:16:40]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:16:46]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:17:28]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[00:18:27]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:18:35]: [Death Announcement] Duc Nguyen was killed by Bearger. He became a spooky ghost!
+[00:19:14]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[00:20:16]: [Join Announcement] LynuocMias
+[00:23:12]: [Join Announcement] Tracy
+[00:23:40]: [Leave Announcement] NTL Game Tips
+[00:24:41]: [Join Announcement] Abigail
+[00:24:49]: [Leave Announcement] LynuocMias
+[00:25:36]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[00:26:20]: [Leave Announcement] Abigail
+[00:26:34]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[00:30:39]: [Join Announcement] Abigail
+[00:31:33]: [Join Announcement] ninhdz
+[00:32:43]: [Say] (KU_ZeQivETS) ninhdz: awww lag qua troi
+[00:32:58]: [Say] (KU_vCuBSxnC) Duc Nguyen: chuyen thuong ngay o Huyen
+[00:32:58]: [Leave Announcement] ninhdz
+[00:33:54]: [Death Announcement] Abigail was killed by Darkness. She became a spooky ghost!
+[00:34:21]: [Leave Announcement] Abigail
+[00:34:22]: [Skin Announcement] Thái An feet_willow_dowdy
+[00:39:00]: [Join Announcement] Abigail
+[00:40:13]: [Leave Announcement] Abigail
+[00:48:22]: [Skin Announcement] cây chanh body_pj_orange_honey
+[00:53:35]: [Leave Announcement] Thái An
+[00:54:11]: [Leave Announcement] Tracy
+[00:54:48]: [Join Announcement] thaonguyenden81
+[00:54:53]: [Join Announcement] Thái An
+[00:55:20]: [Resurrect Announcement] thaonguyenden81 was resurrected by Fire Pit.
+[00:57:53]: [Death Announcement] Duc Nguyen was killed by Darkness. He became a spooky ghost!
+[00:58:04]: [Death Announcement] thaonguyenden81 was killed by Darkness. She became a spooky ghost!
+[00:58:42]: [Resurrect Announcement] thaonguyenden81 was resurrected by Fire Pit.
+[00:58:43]: [Resurrect Announcement] Duc Nguyen was resurrected by Endothermic Fire Pit.
+[01:05:36]: [Death Announcement] thaonguyenden81 was killed by Hound. She became a spooky ghost!
+[01:05:42]: [Death Announcement] Duc Nguyen was killed by Hound. He became a spooky ghost!
+[01:06:21]: [Resurrect Announcement] thaonguyenden81 was resurrected by Fire Pit.
+[01:06:28]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:07:51]: [Leave Announcement] cây chanh
+[01:22:39]: [Join Announcement] NTL Game Tips
+[01:26:00]: [Default Announcement] cây chanh was rerolled
+[01:26:36]: [Join Announcement] thaonguyenden81

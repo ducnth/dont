@@ -1,0 +1,120 @@
+[00:03:26]: [Join Announcement] Thái An
+[00:04:08]: [Join Announcement] Abigail
+[00:05:20]: [Join Announcement] Mouse
+[00:05:45]: [Join Announcement] Tracy
+[00:06:52]: [Leave Announcement] Abigail
+[00:07:24]: [Join Announcement] LynuocMias
+[00:08:29]: [Death Announcement] Mouse was killed by Starvation. He became a spooky ghost!
+[00:08:36]: [Join Announcement] ninhdz
+[00:09:25]: [Join Announcement] Abigail
+[00:09:27]: [Resurrect Announcement] Mouse was resurrected by Endothermic Fire Pit.
+[00:09:50]: [Leave Announcement] Mouse
+[00:15:12]: [Leave Announcement] Tracy
+[00:17:31]: [Leave Announcement] cây chanh
+[00:21:59]: [Join Announcement] NTL Game Tips
+[00:21:59]: [Join Announcement] Abigail
+[00:26:22]: [Say] (KU_vCuBSxnC) Duc Nguyen: kok ko
+[00:28:18]: [Announcement] You feel an evil presence watching you...
+[00:28:28]: [Announcement] The Eye of Terror turns its gaze toward LynuocMias
+[00:31:17]: [Say] (KU_vCuBSxnC) Duc Nguyen: lag ca team lun
+[00:31:50]: [Say] (KU_vCuBSxnC) Duc Nguyen: ko dau
+[00:31:57]: [Say] (KU_vCuBSxnC) Duc Nguyen: code thi cung chi nhan dung Name file
+[00:33:22]: [Join Announcement] ninhdz
+[00:34:09]: [Say] (KU_vCuBSxnC) Duc Nguyen: tat ca la tai CA MAP
+[00:35:09]: [Announcement] You feel an evil presence watching you...
+[00:35:19]: [Announcement] The Eye of Terror turns its gaze toward Abigail
+[00:43:56]: [Say] (KU_vCuBSxnC) Duc Nguyen: e gui hinh di
+[00:45:00]: [Join Announcement] thaonguyenden81
+[00:51:03]: [Say] (KU_vCuBSxnC) Duc Nguyen: a tuogn cua ai a dinh dem bo ruong
+[00:52:36]: [Leave Announcement] Abigail
+[00:52:47]: [Say] (KU_vCuBSxnC) Duc Nguyen: tai game do
+[00:53:05]: [Death Announcement] Thái An was killed by Bunnyman. She became a spooky ghost!
+[00:53:19]: [Resurrect Announcement] Thái An was resurrected by Fire Pit.
+[00:53:48]: [Say] (KU_vCuBSxnC) Duc Nguyen: game khong co server o VN nen gio request qua nguoc ngoai cham
+[00:54:15]: [Join Announcement] Abigail
+[00:57:17]: [Death Announcement] Duc Nguyen was killed by Baby Tentacle. He became a spooky ghost!
+[00:57:34]: [Say] (KU_vCuBSxnC) Duc Nguyen: :)))
+[00:59:09]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:00:16]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:00:42]: [Say] (KU_PP5FpGlu) cây chanh: cíu a Phúc ơi
+[01:01:00]: [Say] (KU_PP5FpGlu) cây chanh: xây cho a lò lửa
+[01:01:01]: [Say] (KU_iNDUz9TV) Abigail: cho ty
+[01:01:05]: [Say] (KU_iNDUz9TV) Abigail: e dang qua, lag qua
+[01:01:06]: [Leave Announcement] thaonguyenden81
+[01:04:18]: [Join Announcement] LynuocMias
+[01:04:42]: [Join Announcement] Abigail
+[01:05:25]: [Join Announcement] ninhdz
+[01:05:57]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:06:26]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:06:30]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:06:57]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:07:41]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:08:06]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:08:37]: [Say] (KU_iNDUz9TV) Abigail: ben day ne
+[01:08:45]: [Say] (KU_iNDUz9TV) Abigail: con lua
+[01:08:50]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:09:07]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:09:20]: [Say] (KU_iNDUz9TV) Abigail: con do choi sao
+[01:09:26]: [Say] (KU_iNDUz9TV) Abigail: em k hieu cach choi :))a
+[01:09:30]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:09:31]: [Death Announcement] Duc Nguyen was killed by Darkness. He became a spooky ghost!
+[01:09:45]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:09:45]: [Say] (KU_vCuBSxnC) Duc Nguyen: :(
+[01:10:17]: [Say] (KU_iNDUz9TV) Abigail: day ne
+[01:10:31]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:10:42]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:10:44]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:10:57]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:10:59]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:11:06]: [Say] (KU_iNDUz9TV) Abigail: ua
+[01:11:07]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:11:11]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:11:11]: [Say] (KU_iNDUz9TV) Abigail: sr =)))s
+[01:11:23]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:11:26]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:11:38]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:11:41]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:11:42]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:11:52]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:12:02]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:12:12]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:12:28]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:12:37]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:12:41]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:12:58]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:13:31]: [Say] (KU_iNDUz9TV) Abigail: het cui oi` :(
+[01:13:48]: [Resurrect Announcement] cây chanh was resurrected by Abigail.
+[01:15:04]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:15:20]: [Say] (KU_iNDUz9TV) Abigail: anh cam tentacle heart heal thu
+[01:15:22]: [Say] (KU_iNDUz9TV) Abigail: dc k
+[01:15:37]: [Resurrect Announcement] cây chanh was resurrected by Abigail.
+[01:15:46]: [Death Announcement] cây chanh was killed by the passage of time. She became a spooky ghost!
+[01:16:54]: [Death Announcement] Duc Nguyen was killed by Nightmarebeak. He became a spooky ghost!
+[01:17:43]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:18:04]: [Death Announcement] Duc Nguyen was killed by Nightmarebeak. He became a spooky ghost!
+[01:18:06]: [Death Announcement] LynuocMias was killed by Depths Worm. He became a spooky ghost!
+[01:18:16]: [Resurrect Announcement] LynuocMias was resurrected by Campfire.
+[01:18:35]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:18:48]: [Death Announcement] LynuocMias was killed by Depths Worm. He became a spooky ghost!
+[01:19:04]: [Death Announcement] Duc Nguyen was killed by Nightmarebeak. He became a spooky ghost!
+[01:19:30]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:19:43]: [Say] (KU_iNDUz9TV) Abigail: con` o do k a chanh
+[01:19:51]: [Resurrect Announcement] LynuocMias was resurrected by Fire Pit.
+[01:19:52]: [Say] (KU_iNDUz9TV) Abigail: qua day co anh sang ne
+[01:20:18]: [Death Announcement] Duc Nguyen was killed by Nightmarebeak. He became a spooky ghost!
+[01:20:20]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:20:30]: [Death Announcement] Duc Nguyen was killed by Nightmarebeak. He became a spooky ghost!
+[01:20:53]: [Resurrect Announcement] Duc Nguyen was resurrected by Fire Pit.
+[01:21:19]: [Skin Announcement] NTL Game Tips legs_skirt_plaid_yellow_butter
+[01:23:00]: [Say] (KU_PP5FpGlu) cây chanh: cứu Phúc ơi
+[01:23:11]: [Say] (KU_vCuBSxnC) Duc Nguyen: bang ten gi
+[01:23:14]: [Say] (KU_vCuBSxnC) Duc Nguyen: qua cuu cho
+[01:23:15]: [Say] (KU_iNDUz9TV) Abigail: dang qua dang qua
+[01:23:52]: [Resurrect Announcement] cây chanh was resurrected by Fire Pit.
+[01:24:04]: [Say] (KU_iNDUz9TV) Abigail: heal thu
+[01:24:46]: [Say] (KU_PP5FpGlu) cây chanh: cho a mượn đèn đi lấy đồ
+[01:26:36]: [Skin Announcement] thaonguyenden81 mysterybox_ice_4
+[01:27:03]: [Say] (KU_iNDUz9TV) Abigail: bang tele ben day
+[01:27:28]: [Say] (KU_vCuBSxnC) Duc Nguyen: nha co viec, nen nghi som ti nha
+[01:27:31]: [Say] (KU_vCuBSxnC) Duc Nguyen: bye mn
+[01:27:34]: [Say] (KU_iNDUz9TV) Abigail: bye

@@ -1,0 +1,7 @@
+[00:03:09]: [Join Announcement] cây chanh
+[00:03:15]: [Join Announcement] ninhdz
+[00:03:21]: [Join Announcement] thaonguyenden81
+[00:03:29]: [Join Announcement] Thái An
+[00:04:30]: [Join Announcement] Mouse
+[00:04:59]: [Leave Announcement] cây chanh
+[00:05:12]: [Leave Announcement] Thái An
