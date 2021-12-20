@@ -45,4 +45,4 @@
 [01:03:59]: [Join Announcement] cây chanh
 [01:04:39]: [Death Announcement] NTL Game Tips was killed by Frog. He became a spooky ghost!
 [01:04:43]: [Resurrect Announcement] NTL Game Tips was resurrected by Fire Pit.
-[01:07:36]: [Resurrect Announcement] cây chanh was resurrected by Campfire.
+[01:07:36]: [Resurrect Announcement] cây chanh was resurrected by  Campfire.
